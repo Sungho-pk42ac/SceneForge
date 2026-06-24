@@ -1,0 +1,3 @@
+"use client";
+import { ViewerPage } from '@/components/ViewerPage';
+export default function Viewer(){ return <ViewerPage/>; }
